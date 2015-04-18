@@ -1,4 +1,7 @@
 #Simple Floating Button For Android
+you can use this button as repacement For the old options menu
+
+
 [Sample App Apk](https://github.com/mohand1993/Floating-Button/blob/master/files/app-release.apk?raw=true)
 ###ScreenShots
 
