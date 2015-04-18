@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="floating_button_default_theme">
+        <item name="main_button_image">@drawable/yellow_circle</item>
+        <item name="dismis_button_image">@drawable/dismiss_button</item>
+    </style>
+</resources>
